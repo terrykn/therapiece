@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/therapiece/static/css/main.46c465c3.css",
-    "main.js": "/therapiece/static/js/main.5083234d.js",
+    "main.js": "/therapiece/static/js/main.b7b1bebf.js",
     "index.html": "/therapiece/index.html",
     "main.46c465c3.css.map": "/therapiece/static/css/main.46c465c3.css.map",
-    "main.5083234d.js.map": "/therapiece/static/js/main.5083234d.js.map"
+    "main.b7b1bebf.js.map": "/therapiece/static/js/main.b7b1bebf.js.map"
   },
   "entrypoints": [
     "static/css/main.46c465c3.css",
-    "static/js/main.5083234d.js"
+    "static/js/main.b7b1bebf.js"
   ]
 }
