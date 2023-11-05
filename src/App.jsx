@@ -23,8 +23,11 @@ const App = () => {
     const { user, isAuthenticated, isLoading } = useAuth0();
     
     
-        
+        if(!isAuthenticated){
+            <Login />
+        }
    
+        else{
         return (
             <div>
             <HashRouter>
@@ -80,6 +83,7 @@ const App = () => {
             </HashRouter>
             </div>
         );
+    }
     
 };
 
