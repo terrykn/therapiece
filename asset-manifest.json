@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.46c465c3.css",
-    "main.js": "/static/js/main.301a824f.js",
-    "index.html": "/index.html",
-    "main.46c465c3.css.map": "/static/css/main.46c465c3.css.map",
-    "main.301a824f.js.map": "/static/js/main.301a824f.js.map"
+    "main.css": "/therapiece/static/css/main.46c465c3.css",
+    "main.js": "/therapiece/static/js/main.603fbbd3.js",
+    "index.html": "/therapiece/index.html",
+    "main.46c465c3.css.map": "/therapiece/static/css/main.46c465c3.css.map",
+    "main.603fbbd3.js.map": "/therapiece/static/js/main.603fbbd3.js.map"
   },
   "entrypoints": [
     "static/css/main.46c465c3.css",
-    "static/js/main.301a824f.js"
+    "static/js/main.603fbbd3.js"
   ]
 }
