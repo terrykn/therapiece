@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/therapiece/static/css/main.cab70224.css",
-    "main.js": "/therapiece/static/js/main.62e94c96.js",
+    "main.js": "/therapiece/static/js/main.f7c45a46.js",
     "index.html": "/therapiece/index.html",
     "main.cab70224.css.map": "/therapiece/static/css/main.cab70224.css.map",
-    "main.62e94c96.js.map": "/therapiece/static/js/main.62e94c96.js.map"
+    "main.f7c45a46.js.map": "/therapiece/static/js/main.f7c45a46.js.map"
   },
   "entrypoints": [
     "static/css/main.cab70224.css",
-    "static/js/main.62e94c96.js"
+    "static/js/main.f7c45a46.js"
   ]
 }
