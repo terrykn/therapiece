@@ -16,18 +16,15 @@ import PeopleRoundedIcon from '@mui/icons-material/PeopleRounded';
 import ChatRoundedIcon from '@mui/icons-material/ChatRounded';
 import AccountCircleRoundedIcon from '@mui/icons-material/AccountCircleRounded';
 import EmojiPeopleRoundedIcon from '@mui/icons-material/EmojiPeopleRounded';
-
-import { useAuth0 } from "@auth0/auth0-react";
+import { YouTubeEmbed } from 'react-social-media-embed';
+// import { useAuth0 } from "@auth0/auth0-react";
 
 const App = () => {
-    const { user, isAuthenticated, isLoading } = useAuth0();
+    //const { user, isAuthenticated, isLoading } = useAuth0();
     
     
-        if(!isAuthenticated){
-            <Login />
-        }
+        
    
-        else{
         return (
             <div>
             <HashRouter>
@@ -81,9 +78,13 @@ const App = () => {
                 </div>
                 
             </HashRouter>
+            <div div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', marginBottom: '50px' }}>
+            <h4>Demo</h4>
+            <YouTubeEmbed url="https://youtu.be/wgZoXPIxLQU" width={200} height={135} />
+            </div>
+            
             </div>
         );
-    }
     
 };
 

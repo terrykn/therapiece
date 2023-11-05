@@ -24,12 +24,12 @@ const Profile = () => {
           <Typography style={{ marginTop: '5px', marginBottom: '5px' }} variant="h5">
             Profile
           </Typography>
-          <Avatar alt="Profile Picture" src={user.picture} sx={{ width: 100, height: 100 }} />
+          <Avatar alt="Profile Picture" src="" sx={{ width: 100, height: 100 }} />
           <Typography style={{ marginTop: '5px', marginBottom: '5px' }} variant="h5">
-            {user.name}
+            Terry 
           </Typography>
           <Typography style={{ marginTop: '5px', marginBottom: '15px' }} variant="body1">
-            {user.email}
+            terry.nguyen@rutgers.edu
           </Typography>
           <LogoutButton />
         </Grid>

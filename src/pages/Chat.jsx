@@ -54,7 +54,7 @@ const Chat = () => {
             secondary="Hi John! Just checking up on your progress, how are the new exercises going?"
           >
             <Typography variant="body1" style={{ fontFamily: 'Segoe UI', fontWeight: 'bold' }}>
-              {user.name} (Physical Therapist)
+              Terry Nguyen (Physical Therapist)
             </Typography>
           </ListItemText>
         </ListItem>
@@ -74,7 +74,7 @@ const Chat = () => {
             secondary="Glad to hear! Looking forward to the next session."
           >
             <Typography variant="body1" style={{ fontFamily: 'Segoe UI', fontWeight: 'bold' }}>
-              {user.name} (Physical Therapist)
+              Terry Nguyen (Physical Therapist)
             </Typography>
           </ListItemText>
         </ListItem>
